@@ -17,4 +17,7 @@ This is a research project by me in which I will compare the performance of diff
 
 
 The size of the matrix will start at 1000 and increment by 500 with maximum size reaching upto 3000.
-The time of the tasks will be measured by the timing fucntions of all the respective languages
+
+The time of the tasks will be measured by the timing fucntions of all the respective languages.
+
+This time is then visualized using Matplotlib
