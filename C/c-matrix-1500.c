@@ -5,7 +5,7 @@
 int main() {
     clock_t start, end; 
     double cpu_time_used;
-    int size = 1000;
+    int size = 1500;
     int **arr1, **arr2, **arrResult;
 
     // Dynamically allocate memory for the arrays
@@ -55,4 +55,4 @@ int main() {
 
     return 0;
 }
-//execution time was 3.932 seconds
+//execution time was 15.348 seconds
