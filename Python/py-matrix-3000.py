@@ -1,5 +1,5 @@
 import time
-cols,rows = 2500,2500
+cols,rows = 3000, 3000
 list1 = [[i + j for j in range(cols)] for i in range(rows)]
 list2 = [[i - j for j in range(cols)] for i in range(rows)]
 resultList = [[0 for _ in range(cols)] for _ in range(rows)]
@@ -14,4 +14,4 @@ end_time = time.time()
 
 time_taken = end_time - start_time
 print(time_taken)
-# execution time is 4125.655471086502 seconds
+# execution time is 7184.985199928284 seconds
