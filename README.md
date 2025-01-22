@@ -13,8 +13,6 @@ This is a research project by me in which I will compare the performance of diff
 
 -> R
 
--> MATLAB
-
 
 The size of the matrix will start at 1000 and increment by 500 with a maximum size reaching up to 3000.
 
