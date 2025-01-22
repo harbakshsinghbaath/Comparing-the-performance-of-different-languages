@@ -21,7 +21,8 @@ The size of the matrix will start at 1000 and increment by 500 with a maximum si
 The time of the tasks will be measured by the timing functions of all the respective languages.
 
 <img width="529" alt="image" src="https://github.com/user-attachments/assets/0946c749-b1eb-4468-a797-31e67f29c033" />
-A few things to keep in mind - 
+
+Here are a few things to keep in mind - 
 R  has preinstalled libraries in VSCode which help it run faster, otherwise the speed of R is comparitive to python.
 
 
