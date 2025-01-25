@@ -18,6 +18,9 @@ The size of the matrix will start at 1000 and increment by 500 with a maximum si
 
 The time of the tasks will be measured by the timing functions of all the respective languages.
 
+<img width="358" alt="image" src="https://github.com/user-attachments/assets/90940126-8d55-4609-9389-ab894f1a815a" />
+
+
 <img width="529" alt="image" src="https://github.com/user-attachments/assets/0946c749-b1eb-4468-a797-31e67f29c033" />
 
 Here are a few things to keep in mind - 
